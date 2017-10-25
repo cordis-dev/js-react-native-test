@@ -7,3 +7,5 @@ const Hello = React.createClass({
     return <Text>Hello {this.props.name}</Text>;
   }
 });
+
+
